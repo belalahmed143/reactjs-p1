@@ -1,0 +1,17 @@
+[
+    {
+        "title" : "Product-1",
+        "price" : "79",
+        "category" : "Electronics"
+    },
+    {
+        "title" : "Product-2",
+        "price" : "89",
+        "category" : "Electronics"
+    },
+    {
+        "title" : "Product-3",
+        "price" : "99",
+        "category" : "Electronics"
+    }
+]

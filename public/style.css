@@ -1,0 +1,21 @@
+.card{
+    background-color: rgb(147, 210, 30);
+    width: 24%;
+    box-shadow: 5px 5px 5px rgb(47, 41, 41);
+   display: inline-block;
+   margin: 4px;
+}
+.card h5{
+    font-size: 20px;
+    text-align: center;
+}
+.card p{
+    margin: 15px;
+}
+
+.icon{
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    color: rgb(227, 5, 5);
+}
